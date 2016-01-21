@@ -1,0 +1,44 @@
+[
+  {
+    "num" : "00000001",
+    "denomination" : 20,
+    "limitAmount" : 1000,
+    "limitDays" : 20,
+    "exclusive" : true
+  },
+  {
+    "num" : "00000002",
+    "denomination" : 35,
+    "limitAmount" : 1000,
+    "limitDays" : 20,
+    "exclusive" : false
+  },
+  {
+    "num" : "00000003",
+    "denomination" : 100,
+    "limitAmount" : 10000,
+    "limitDays" : 120,
+    "exclusive" : true
+  },
+  {
+    "num" : "00000004",
+    "denomination" : 100,
+    "limitAmount" : 10000,
+    "limitDays" : 20,
+    "exclusive" : true
+  },
+  {
+    "num" : "00000005",
+    "denomination" : 100,
+    "limitAmount" : 10000,
+    "limitDays" : 20,
+    "exclusive" : true
+ },
+ {
+ "num" : "00000006",
+ "denomination" : 20,
+ "limitAmount" : 1000,
+ "limitDays" : 20,
+ "exclusive" : false
+ }
+]
